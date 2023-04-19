@@ -6,12 +6,6 @@
 button.setTitle("my text here", forState: .normal)
 ```
 
-레이블 텍스트를 바꾸는 법
-
-```swift
-label.text = "안녕하세요"
-```
-
 타이머 설정
 
 ```swift
