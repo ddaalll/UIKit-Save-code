@@ -3,7 +3,7 @@
 버튼의 타이틀을 바꾸는 법
 
 ```swift
-button.setTitle("my text here", forState: .normal)
+button.setTitle("text here", forState: .normal)
 ```
 
 타이머 설정
